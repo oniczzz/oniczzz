@@ -1,52 +1,51 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0d1117,50:172a24,100:301b48&text=PLAYER.exe&fontColor=39ff88&fontSize=48&fontAlignY=52&desc=SYSTEM%20ONLINE%20%2F%2F%20WELCOME&descAlignY=80&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:080b16,45:171044,100:062d36&text=oniczzz&fontColor=39ffb6&fontSize=60&fontAlignY=45&desc=CODE%20%2F%20LINUX%20%2F%20PYTHON%20%2F%20RUST&descAlignY=72&descSize=14" width="100%"/>
 
-### `> Hello, world!`
+### `> developer in progress_`
 
-`[ developer in progress ] [ status: learning ]`
+`[ build ] [ learn ] [ repeat ]`
 
-[![GitHub](https://img.shields.io/badge/GitHub-profile-161b22?style=flat-square&logo=github&logoColor=39ff88)](https://github.com/YOUR_USERNAME)
-![Status](https://img.shields.io/badge/status-building-161b22?style=flat-square&color=238636)
-![Mode](https://img.shields.io/badge/mode-night-161b22?style=flat-square&color=8957e5)
+![Python](https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=39ffb6)
+![Rust](https://img.shields.io/badge/Rust-0b1020?style=for-the-badge&logo=rust&logoColor=bc8cff)
+![Linux](https://img.shields.io/badge/Linux-0b1020?style=for-the-badge&logo=linux&logoColor=39ffb6)
 
 </div>
 
 ---
 
-## `01 / ABOUT.TXT`
+## `01 / ABOUT_ME.TXT`
 
 ```text
 > Just a guy who likes computers.
-> Learning to code and building random stuff.
-> Breaking things is part of the process.
-> Currently loading new skills...
+> Learning Python and Rust.
+> Linux, games and random experiments.
+> Currently leveling up...
 ```
 
-## `02 / TECH_STACK`
+## `02 / CURRENT_LOADOUT`
 
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+| TOOL | STATUS |
+|:--|:--|
+| Python | `LEARNING` |
+| Rust | `LEARNING` |
+| Linux | `ACTIVE` |
+| Git | `IN USE` |
 
 ## `03 / PROJECTS`
 
-| PROJECT | DESCRIPTION | STATUS |
-|:--|:--|:--|
-| `project_01` | Your first project | `WIP` |
-| `project_02` | Another cool idea | `PLANNED` |
-| `project_03` | Something experimental | `LOADING` |
+[![Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-16112b?style=for-the-badge&logo=github&logoColor=39ffb6)](https://github.com/oniczzz?tab=repositories)
+
+*My projects will appear here as I build them.*
 
 ## `04 / GITHUB_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oniczzz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&icon_color=bc8cff&include_all_commits=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oniczzz&show_icons=true&hide_border=true&bg_color=080b16&title_color=39ffb6&text_color=c9d1d9&icon_color=bc8cff" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniczzz&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniczzz&layout=compact&hide_border=true&bg_color=080b16&title_color=39ffb6&text_color=c9d1d9" width="90%"/>
 
 </div>
 
@@ -54,8 +53,10 @@
 
 <div align="center">
 
-`[ END OF TRANSMISSION ]`
+`< small steps build big things />`
 
-*Thanks for stopping by.*
+**Thanks for visiting!**
+
+`[ END OF TRANSMISSION ]`
 
 </div>
