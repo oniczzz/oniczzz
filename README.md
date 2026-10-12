@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&icon_color=bc8cff&include_all_commits=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oniczzz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&icon_color=bc8cff&include_all_commits=true" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniczzz&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" width="90%"/>
 
 </div>
 
